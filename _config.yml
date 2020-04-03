@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 孤城浪子的博客 | BY Blog
+title: 做一只开心的搬砖侠客
+SEOTitle: 搬砖侠的博客 | BY Blog
 header-img: img/home-bg.jpg
 email: 2376467108@qq.com
 description: "The important thing is to begin..."
-keyword: "BY, BY Blog, 孤城浪子的博客, java, Architecture"
+keyword: "BY, BY Blog, 搬砖侠的博客, java, Architecture"
 url: "http://kakaome.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kakaome/kakaome.github.io.git" # you code repository
