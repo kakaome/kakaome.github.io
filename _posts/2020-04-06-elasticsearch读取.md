@@ -1,5 +1,5 @@
 
----
+----
 layout:     post
 title:      Elsticsearch根据term查询id列表
 subtitle:   iOS定时器详解
@@ -8,8 +8,8 @@ author:     搬砖侠
 header-img: img/es.jpg
 catalog: 	 true
 tags:
-    - ElasticSearch
----
+  - ElasticSearch
+----
 
 # 前言
 Elasticsearch底层数据原理
