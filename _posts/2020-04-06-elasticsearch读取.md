@@ -1,14 +1,14 @@
 
 ----
 layout:     post
-title:      Elsticsearch根据term查询id列表
-subtitle:   iOS定时器详解
+title:      Elasticsearch根据term查询id列表
+subtitle:   Elasticsearch底层原理
 date:       2020-04-06
 author:     搬砖侠
 header-img: img/es.jpg
 catalog: 	 true
 tags:
-  - ElasticSearch
+    - ElasticSeach
 ----
 
 # 前言
