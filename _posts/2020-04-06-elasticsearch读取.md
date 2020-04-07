@@ -1,15 +1,16 @@
 
-----
 layout:     post
-title:      Elasticsearch根据term查询id列表
-subtitle:   Elasticsearch底层原理
-date:       2020-04-06
-author:     搬砖侠
-header-img: img/es.jpg
-catalog: 	 true
+title:      iOS自动打包
+subtitle:   利用 xcdeobulid 打包项目、上传
+date:       2017-04-20
+author:     BY
+header-img: img/post-bg-hacker.jpg
+catalog: true
 tags:
-    - ElasticSeach
-----
+    - iOS
+    - Xcode
+    - shell
+    - ruby
 
 # 前言
 Elasticsearch底层数据原理
