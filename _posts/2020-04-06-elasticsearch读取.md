@@ -1,17 +1,18 @@
 
+---
 layout:     post
-title:      iOS自动打包
-subtitle:   利用 xcdeobulid 打包项目、上传
-date:       2017-04-20
+title:      ReactiveCocoa 进阶
+subtitle:   函数式编程框架 ReactiveCocoa 进阶
+date:       2017-01-06
 author:     BY
-header-img: img/post-bg-hacker.jpg
+header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
     - iOS
-    - Xcode
-    - shell
-    - ruby
-
+    - ReactiveCocoa
+    - 函数式编程
+    - 开源框架
+---
 # 前言
 Elasticsearch底层数据原理
 
